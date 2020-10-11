@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭  I’m currently working on
+### 🔭  My current project
 
 I’m currently working on my first book: [Cloud Native Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) (O'Reilly Media). Its first few chapters are available now in Early Release, so feel free to go ahead and take a look. If you have thoughts about how I can improve the work, I want to hear them!
+
+### ⚡ Fun facts
+
+- I have above average handwriting.
+- My hobbies include spontaneous human combustion, collecting dirt, and cold logic.
+- My turnoffs include time, object permanence, barium, and four out of five dentists.
 
 ### 📫  How to reach me
 
