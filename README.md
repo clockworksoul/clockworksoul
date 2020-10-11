@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=clockworksoul)
+
 ### Hi, I'm Matt. 👋
 
 <!--
@@ -15,4 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=clockworksoul)
+### 🔭 I’m currently working on
+
+I’m currently working on my first book: [Cloud Native Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) (O'Reilly Media). Its first few chapters are available now in Early Release, so feel free to go ahead and take a look. If you have thoughts about how I can improve the work, I want to hear them!
+
+### 📫 How to reach me
+
+I've been off of most social media for the last couple of years, which while liberating, can also make it harder to get in touch with me. However...
+
+* I'm [still on LinkedIn](https://www.linkedin.com/in/matthew-titmus/).
+* I can still be reach by good old-fashioned email at [matthew.titmus@gmail.com](mailto://matthew.titmus@gmail.com).
