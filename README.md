@@ -22,6 +22,7 @@ I’m currently working on my first book: [Cloud Native Go](https://learning.ore
 ### ⚡ Fun facts
 
 - I have above average handwriting.
+- I have [a repository to record things I learned or just want to make sure I remember](https://github.com/clockworksoul/today-i-learned/blob/main/README.md). I've been neglecting it recently though.
 - My hobbies include spontaneous human combustion, collecting dirt, and cold logic.
 - My turnoffs include time, object permanence, barium, and four out of five dentists.
 
