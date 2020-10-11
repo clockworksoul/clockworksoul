@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=clockworksoul)
-
 ## Hi, I'm Matt. 👋
 
 <!--
@@ -33,3 +31,5 @@ I've been off of most social media for the last couple of years, which while lib
 
 * I'm [still on LinkedIn](https://www.linkedin.com/in/matthew-titmus/).
 * I can still be reach by good old-fashioned email at [matthew.titmus@gmail.com](mailto://matthew.titmus@gmail.com).
+
+![](https://komarev.com/ghpvc/?username=clockworksoul)
