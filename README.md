@@ -33,4 +33,6 @@ I've been off of most social media for the last couple of years, which while lib
 * I'm [still on LinkedIn](https://www.linkedin.com/in/matthew-titmus/).
 * I can still be reached by good old-fashioned email at [matthew.titmus@gmail.com](mailto://matthew.titmus@gmail.com).
 
+[![Clockworksoul's GitHub stats](https://github-readme-stats.vercel.app/api?username=clockworksoul&count_private=true&theme=dark&show_icons=true)](https://github.com/clockworksoul/github-readme-stats)
+
 ![](https://komarev.com/ghpvc/?username=clockworksoul)
