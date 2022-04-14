@@ -32,5 +32,6 @@ I've been off of most social media for the last couple of years, which while lib
 
 * I'm [still on LinkedIn](https://www.linkedin.com/in/matthew-titmus/).
 * I can still be reached by good old-fashioned email at [matthew.titmus@gmail.com](mailto://matthew.titmus@gmail.com).
+* I have an open office hours. [Sign up here](calendly.com/matthew-titmus).
 
 ![](https://komarev.com/ghpvc/?username=clockworksoul)
