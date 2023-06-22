@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 🔭 My current project
 
-I recently wrapped up my first book: [Cloud Native Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) (O'Reilly Media), now available on the O'Reilly Learning Platform and for purchase [on Amazon](https://smile.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333/ref=sr_1_5). Please feel free to go ahead and take a look, and if you have thoughts about how I can improve it, I want to hear them!
+I'm currently working on the second edition of my book, [Cloud Native Go](https://learning.oreilly.com/library/view/cloud-native-go/9781492076322/) (O'Reilly Media). The first edition is already available on the O'Reilly Learning Platform and for purchase [on Amazon](https://smile.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333/ref=sr_1_5). Please feel free to go ahead and take a look, and if you have thoughts about how I can improve it, I want to hear them!
 
 ### ⚡ Fun facts
 
